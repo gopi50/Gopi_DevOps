@@ -1,0 +1,7 @@
+idea
+airtel
+bsnl
+jio
+vodafone
+tatadocomo
+
